@@ -11,7 +11,6 @@ I came from marketing: 16 years, R$30M in managed ad spend, R$1B in influenced r
 ### 🛠️ What I'm building
 
 - **[Outbox](https://github.com/olucasdomkt/agent-outbox)** — an approval queue for everything your AI agents want to send (WhatsApp, email, Discord), with a linter that blocks secret leaks before they go out. `Node + SQLite · MIT`
-- **[ARC](https://github.com/olucasdomkt/arc-design-system)**, **[Rhema](https://github.com/olucasdomkt/rhema-design-system)** and **[Tulhia](https://github.com/olucasdomkt/tulhia-design-system)** design systems — tokens, type, motion and accessibility.
 
 ### 🧰 Stack
 
